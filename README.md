@@ -1,5 +1,5 @@
 # UniwersalnaWtyczkaAnalizaDanych
-To jest wtyczka zaprojektowana specjalnie dla analityków, oferująca kilka wszechstronnych funkcji przydatnych w ich codziennej pracy.
+To jest wtyczka zaprojektowana specjalnie dla analityków, oferująca kilka wszechstronnych funkcji przydatnych w ich codziennej pracy.<br>
 
 ![image](https://github.com/kasiaPesik/UniwersalnaWtyczkaAnalizaDanych/assets/127053233/07b8a294-48d5-4bc0-b268-fc778c3470d4)
 
